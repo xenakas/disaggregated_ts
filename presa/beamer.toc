@@ -20,3 +20,7 @@
 \beamer@sectionintoc {5}{Clusterization methods}{27}{0}{5}
 \beamer@sectionintoc {6}{Forecast-error clustering}{27}{0}{6}
 \beamer@sectionintoc {7}{The Diebold-Mariano Test}{28}{0}{7}
+\beamer@sectionintoc {8}{Bayesian Methods}{31}{0}{8}
+\beamer@subsectionintoc {8}{1}{Why is the Bayesian Inference controversial?}{31}{0}{8}
+\beamer@subsectionintoc {8}{2}{Bayesian Shrinkage}{31}{0}{8}
+\beamer@subsectionintoc {8}{3}{Stein's paradox}{32}{0}{8}

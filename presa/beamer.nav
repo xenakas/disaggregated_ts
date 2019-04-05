@@ -107,8 +107,21 @@
 \headcommand {\beamer@framepages {29}{29}}
 \headcommand {\slideentry {7}{0}{3}{30/30}{}{0}}
 \headcommand {\beamer@framepages {30}{30}}
-\headcommand {\beamer@partpages {1}{30}}
+\headcommand {\beamer@sectionpages {28}{30}}
+\headcommand {\beamer@subsectionpages {28}{30}}
+\headcommand {\sectionentry {8}{Bayesian Methods}{31}{Bayesian Methods}{0}}
 \headcommand {\beamer@subsectionpages {31}{30}}
-\headcommand {\beamer@sectionpages {31}{30}}
-\headcommand {\beamer@documentpages {30}}
-\headcommand {\gdef \inserttotalframenumber {30}}
+\headcommand {\beamer@subsectionentry {0}{8}{1}{31}{Why is the Bayesian Inference controversial?}}
+\headcommand {\beamer@subsectionpages {31}{30}}
+\headcommand {\beamer@subsectionentry {0}{8}{2}{31}{Bayesian Shrinkage}}
+\headcommand {\slideentry {8}{2}{1}{31/31}{Bayesian Shrinkage}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\beamer@subsectionpages {31}{31}}
+\headcommand {\beamer@subsectionentry {0}{8}{3}{32}{Stein's paradox}}
+\headcommand {\slideentry {8}{3}{1}{32/32}{Stein's paradox}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@partpages {1}{32}}
+\headcommand {\beamer@subsectionpages {33}{32}}
+\headcommand {\beamer@sectionpages {33}{32}}
+\headcommand {\beamer@documentpages {32}}
+\headcommand {\gdef \inserttotalframenumber {32}}
