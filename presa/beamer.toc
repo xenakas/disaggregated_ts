@@ -1,0 +1,22 @@
+\babel@toc {russian}{}
+\beamer@sectionintoc {1}{Goal and tasks:}{2}{0}{1}
+\beamer@sectionintoc {2}{Data}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Three-level models}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Choosing datasets:}{4}{0}{2}
+\beamer@subsectionintoc {2}{3}{US:}{5}{0}{2}
+\beamer@subsectionintoc {2}{4}{Для России:}{7}{0}{2}
+\beamer@subsectionintoc {2}{5}{ЕС:}{11}{0}{2}
+\beamer@sectionintoc {3}{Forecasting :}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Aggregated TS:}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Disaggregated TS}{16}{0}{3}
+\beamer@sectionintoc {4}{Grouped Time Series}{17}{0}{4}
+\beamer@subsectionintoc {4}{1}{Forecasting hierarchical time series}{17}{0}{4}
+\beamer@subsectionintoc {4}{2}{RW with drift}{20}{0}{4}
+\beamer@subsectionintoc {4}{3}{Snaive}{21}{0}{4}
+\beamer@subsectionintoc {4}{4}{Theta}{22}{0}{4}
+\beamer@subsectionintoc {4}{5}{ARIMA}{23}{0}{4}
+\beamer@subsectionintoc {4}{6}{ARIMAX}{25}{0}{4}
+\beamer@subsectionintoc {4}{7}{Forecasting grouped time series}{27}{0}{4}
+\beamer@sectionintoc {5}{Clusterization methods}{27}{0}{5}
+\beamer@sectionintoc {6}{Forecast-error clustering}{27}{0}{6}
+\beamer@sectionintoc {7}{The Diebold-Mariano Test}{28}{0}{7}

@@ -1,0 +1,21 @@
+\BOOKMARK [2][]{Outline0.1}{Goal\040and\040tasks:}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Data}{}% 2
+\BOOKMARK [3][]{Outline0.2.1.3}{Three-level\040models}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.4}{Choosing\040datasets:}{Outline0.2}% 4
+\BOOKMARK [3][]{Outline0.2.3.5}{US:}{Outline0.2}% 5
+\BOOKMARK [3][]{Outline0.2.4.7}{Для России:}{Outline0.2}% 6
+\BOOKMARK [3][]{Outline0.2.5.11}{ЕС:}{Outline0.2}% 7
+\BOOKMARK [2][]{Outline0.3}{Forecasting\040:}{}% 8
+\BOOKMARK [3][]{Outline0.3.1.12}{Aggregated\040TS:}{Outline0.3}% 9
+\BOOKMARK [3][]{Outline0.3.2.16}{Disaggregated\040TS}{Outline0.3}% 10
+\BOOKMARK [2][]{Outline0.4}{Grouped\040Time\040Series}{}% 11
+\BOOKMARK [3][]{Outline0.4.1.17}{Forecasting\040hierarchical\040time\040series}{Outline0.4}% 12
+\BOOKMARK [3][]{Outline0.4.2.20}{RW\040with\040drift}{Outline0.4}% 13
+\BOOKMARK [3][]{Outline0.4.3.21}{Snaive}{Outline0.4}% 14
+\BOOKMARK [3][]{Outline0.4.4.22}{Theta}{Outline0.4}% 15
+\BOOKMARK [3][]{Outline0.4.5.23}{ARIMA}{Outline0.4}% 16
+\BOOKMARK [3][]{Outline0.4.6.25}{ARIMAX}{Outline0.4}% 17
+\BOOKMARK [3][]{Outline0.4.7.27}{Forecasting\040grouped\040time\040series}{Outline0.4}% 18
+\BOOKMARK [2][]{Outline0.5}{Clusterization\040methods}{}% 19
+\BOOKMARK [2][]{Outline0.6}{Forecast-error\040clustering}{}% 20
+\BOOKMARK [2][]{Outline0.7}{The\040Diebold-Mariano\040Test}{}% 21
