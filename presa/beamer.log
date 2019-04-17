@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2018.11.7)  5 APR 2019 05:49
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2018.11.7)  15 APR 2019 23:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1921,24 +1921,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 1445.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1445.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1445.
 
+Package rerunfilecheck Info: File `beamer.out' has not changed.
+(rerunfilecheck)             Checksum: CB2DF928F9B011BFCE0898B8AF415ACD.
 
-
-Package rerunfilecheck Warning: File `beamer.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `beamer.out':
-(rerunfilecheck)             Before: AD972E936DD3351346330C913B6C759F
-(rerunfilecheck)             After:  CB2DF928F9B011BFCE0898B8AF415ACD.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 33524 strings out of 492962
- 650236 string characters out of 6135709
- 765304 words of memory out of 5000000
- 36947 multiletter control sequences out of 15000+600000
+ 33538 strings out of 492962
+ 650365 string characters out of 6135709
+ 765712 words of memory out of 5000000
+ 36961 multiletter control sequences out of 15000+600000
  539213 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,15n,89p,784b,559s stack positions out of 5000i,500n,10000p,200000b,80000s
