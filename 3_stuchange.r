@@ -1,4 +1,3 @@
-
 library(forecast)
 library(ggplot2)
 library(dplyr)
@@ -66,7 +65,7 @@ plot(fs.gdp_agg)
 breakpoints(fs.gdp_agg)
 lines(breakpoints(fs.gdp_agg))
 
-breakpoints(fs.gdp_agg)
+a <- breakpoints(fs.gdp_agg)
 
 ## or
 bp.gdp_agg <- breakpoints(gdp_agg ~ 1)
