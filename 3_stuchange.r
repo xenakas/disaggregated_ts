@@ -67,7 +67,7 @@ lines(breakpoints(fs.gdp_agg))
 
 a <- breakpoints(fs.gdp_agg)
 
-## or
+    ## or
 bp.gdp_agg <- breakpoints(gdp_agg ~ 1)
 summary(bp.gdp_agg)
 
