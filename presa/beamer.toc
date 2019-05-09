@@ -1,26 +1,36 @@
 \babel@toc {russian}{}
 \beamer@sectionintoc {1}{Goal and tasks:}{2}{0}{1}
-\beamer@sectionintoc {2}{Data}{3}{0}{2}
-\beamer@subsectionintoc {2}{1}{Three-level models}{3}{0}{2}
-\beamer@subsectionintoc {2}{2}{Choosing datasets:}{4}{0}{2}
+\beamer@sectionintoc {2}{Данные: }{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Трехуровневая структура данных:}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Выбор подходящих наборов данных:}{4}{0}{2}
 \beamer@subsectionintoc {2}{3}{US:}{5}{0}{2}
-\beamer@subsectionintoc {2}{4}{Для России:}{7}{0}{2}
-\beamer@subsectionintoc {2}{5}{ЕС:}{11}{0}{2}
-\beamer@sectionintoc {3}{Forecasting :}{12}{0}{3}
-\beamer@subsectionintoc {3}{1}{Aggregated TS:}{12}{0}{3}
-\beamer@subsectionintoc {3}{2}{Disaggregated TS}{16}{0}{3}
-\beamer@sectionintoc {4}{Grouped Time Series}{17}{0}{4}
-\beamer@subsectionintoc {4}{1}{Forecasting hierarchical time series}{17}{0}{4}
-\beamer@subsectionintoc {4}{2}{RW with drift}{20}{0}{4}
-\beamer@subsectionintoc {4}{3}{Snaive}{21}{0}{4}
-\beamer@subsectionintoc {4}{4}{Theta}{22}{0}{4}
-\beamer@subsectionintoc {4}{5}{ARIMA}{23}{0}{4}
-\beamer@subsectionintoc {4}{6}{ARIMAX}{25}{0}{4}
-\beamer@subsectionintoc {4}{7}{Forecasting grouped time series}{27}{0}{4}
-\beamer@sectionintoc {5}{Clusterization methods}{27}{0}{5}
-\beamer@sectionintoc {6}{Forecast-error clustering}{27}{0}{6}
-\beamer@sectionintoc {7}{The Diebold-Mariano Test}{28}{0}{7}
-\beamer@sectionintoc {8}{Bayesian Methods}{31}{0}{8}
-\beamer@subsectionintoc {8}{1}{Why is the Bayesian Inference controversial?}{31}{0}{8}
-\beamer@subsectionintoc {8}{2}{Bayesian Shrinkage}{31}{0}{8}
-\beamer@subsectionintoc {8}{3}{Stein's paradox}{32}{0}{8}
+\beamer@subsectionintoc {2}{4}{ЕС:}{5}{0}{2}
+\beamer@sectionintoc {3}{Forecasting :}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Aggregated TS:}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Disaggregated TS}{10}{0}{3}
+\beamer@sectionintoc {4}{Grouped Time Series}{11}{0}{4}
+\beamer@subsectionintoc {4}{1}{Forecasting hierarchical time series}{11}{0}{4}
+\beamer@subsectionintoc {4}{2}{RW with drift}{14}{0}{4}
+\beamer@subsectionintoc {4}{3}{Snaive}{15}{0}{4}
+\beamer@subsectionintoc {4}{4}{Theta}{16}{0}{4}
+\beamer@subsectionintoc {4}{5}{ARIMA}{17}{0}{4}
+\beamer@subsectionintoc {4}{6}{ARIMAX}{19}{0}{4}
+\beamer@subsectionintoc {4}{7}{Forecasting grouped time series}{21}{0}{4}
+\beamer@subsectionintoc {4}{8}{Optimal forecasts}{22}{0}{4}
+\beamer@subsectionintoc {4}{9}{Approximate optimal forecasts}{23}{0}{4}
+\beamer@subsectionintoc {4}{10}{Temporal hierarchies}{24}{0}{4}
+\beamer@sectionintoc {5}{Clusterization methods}{25}{0}{5}
+\beamer@sectionintoc {6}{Forecast-error clustering}{25}{0}{6}
+\beamer@sectionintoc {7}{The Diebold-Mariano Test}{26}{0}{7}
+\beamer@sectionintoc {8}{Bayesian Methods}{29}{0}{8}
+\beamer@subsectionintoc {8}{1}{Why is the Bayesian Inference controversial?}{29}{0}{8}
+\beamer@subsectionintoc {8}{2}{Bayesian Modelling and Markov chain Monte Carlo}{31}{0}{8}
+\beamer@subsectionintoc {8}{3}{Bayesian Shrinkage}{32}{0}{8}
+\beamer@subsectionintoc {8}{4}{Stein's paradox}{33}{0}{8}
+\beamer@sectionintoc {9}{MCMC}{34}{0}{9}
+\beamer@sectionintoc {10}{Hierarchical Bayes}{34}{0}{10}
+\beamer@sectionintoc {11}{Small Sample}{34}{0}{11}
+\beamer@sectionintoc {12}{Bootstrap}{35}{0}{12}
+\beamer@subsectionintoc {12}{1}{The Recursive BS for stationary AR(p) model}{36}{0}{12}
+\beamer@subsectionintoc {12}{2}{A comparison of four different block bootstrap methods}{37}{0}{12}
+\beamer@subsectionintoc {12}{3}{Bootstrapping vs. Posterior sampling}{38}{0}{12}
