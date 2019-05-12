@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  7 MAY 2019 18:35
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  11 MAY 2019 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1997,7 +1997,7 @@ LaTeX Warning: Reference `otkl_1' on page 5 undefined on input line 433.
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 472.
+LaTeX Warning: Empty bibliography on input line 503.
 
 [6
 
@@ -2006,13 +2006,13 @@ LaTeX Warning: Empty bibliography on input line 472.
 [7
 
 ] [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 543.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 543.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 574.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 574.
  (./GOST_diploma.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 543.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 543.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 574.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 574.
 Package rerunfilecheck Info: File `GOST_diploma.out' has not changed.
-(rerunfilecheck)             Checksum: E5594AA5FBDA899B7D954C4D9E5F2B03.
+(rerunfilecheck)             Checksum: 5A6EC8BD41A2CDA376D65B81569FF905.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2028,13 +2028,13 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'GOST_diploma.run.xml'.
 \openout1 = `GOST_diploma.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 543.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 574.
  ) 
 Here is how much of TeX's memory you used:
- 57109 strings out of 492912
- 1232215 string characters out of 6134893
- 2086713 words of memory out of 5000000
- 60402 multiletter control sequences out of 15000+600000
+ 57113 strings out of 492912
+ 1232273 string characters out of 6134893
+ 2088718 words of memory out of 5000000
+ 60406 multiletter control sequences out of 15000+600000
  538522 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  66i,11n,109p,1176b,5694s stack positions out of 5000i,500n,10000p,200000b,80000s

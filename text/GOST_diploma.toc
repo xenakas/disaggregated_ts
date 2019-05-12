@@ -13,7 +13,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Заключение}{6}{chapter*.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Список литературы}{6}{chapter*.3}% 
+\contentsline {chapter}{Список литературы}{6}{table.caption.4}% 
 \defcounter {refsection}{0}\relax 
 \ttl@change@i {\@ne }{chapter}{0 em}{\normalsize }{\makebox [7em][l]{Приложение \thecontentslabel }}{Приложение }{\titlerule *[10pt]{.}\contentspage }\relax 
 \defcounter {refsection}{0}\relax 
