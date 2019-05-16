@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  9 MAY 2019 14:17
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  16 MAY 2019 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1251,35 +1251,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'russian'.
-(./beamer.aux
-
-LaTeX Warning: Label `fig:screenshot021' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot021' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot029' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot029' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot029' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot029' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot029' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot029' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot029' multiply defined.
-
-)
+(./beamer.aux)
 \openout1 = `beamer.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -1447,21 +1419,16 @@ File: logo2.png Graphic file (type bmp)
  [1
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 66.
+LaTeX Font Info:    Try loading font information for U+msa on input line 70.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 66.
+LaTeX Font Info:    Try loading font information for U+msb on input line 70.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-Class beamer Warning: Frame text is shrunk by a factor of 17.58728 percent inst
-ead of 3 percent on input line 66.
-
-[2
+) [2
 
 ]
 File: Screenshot51.png Graphic file (type bmp)
@@ -1470,237 +1437,37 @@ File: Screenshot51.png Graphic file (type bmp)
 
 ] [4
 
-]
-File: screenshot021.png Graphic file (type bmp)
-<screenshot021.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 32.0633 percent inste
-ad of 5 percent on input line 190.
-
-[5
+] [5
 
 ]
-File: screenshot022.png Graphic file (type bmp)
-<screenshot022.png>
- [6
+File: screenshot047.png Graphic file (type bmp)
+<screenshot047.png>
+File: screenshot048.png Graphic file (type bmp)
+<screenshot048.png>
+File: screenshot050.png Graphic file (type bmp)
+<screenshot050.png>
+File: screenshot046.png Graphic file (type bmp)
+<screenshot046.png>
+File: screenshot049.png Graphic file (type bmp)
+<screenshot049.png>
+File: screenshot051.png Graphic file (type bmp)
+<screenshot051.png>
+
+
+Class beamer Warning: Frame text is shrunk by a factor of 7.30591 percent inste
+ad of 5 percent on input line 398.
+
+[6
 
 ]
-File: screenshot023.png Graphic file (type bmp)
-<screenshot023.png>
+File: screenshot052.png Graphic file (type bmp)
+<screenshot052.png>
 
 
-Class beamer Warning: Frame text is shrunk by a factor of 23.77777 percent inst
-ead of 5 percent on input line 238.
+Class beamer Warning: Frame text is shrunk by a factor of 27.0813 percent inste
+ad of 5 percent on input line 420.
 
 [7
-
-]
-File: screenshot024.png Graphic file (type bmp)
-<screenshot024.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 17.44995 percent inst
-ead of 5 percent on input line 255.
-
-[8
-
-]
-File: screenshot025.png Graphic file (type bmp)
-<screenshot025.png>
-File: screenshot026.png Graphic file (type bmp)
-<screenshot026.png>
-File: screenshot027.png Graphic file (type bmp)
-<screenshot027.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 16.82281 percent inst
-ead of 5 percent on input line 287.
-
-[9
-
-]
-File: screenshot028.png Graphic file (type bmp)
-<screenshot028.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 19.27795 percent inst
-ead of 5 percent on input line 307.
-
-[10
-
-] [11
-
-]
-File: screenshot010.png Graphic file (type bmp)
-<screenshot010.png>
- [12
-
-] [13
-
-]
-File: screenshot029.png Graphic file (type bmp)
-<screenshot029.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 21.02661 percent inst
-ead of 5 percent on input line 450.
-
-[14
-
-]
-File: screenshot032.png Graphic file (type bmp)
-<screenshot032.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 22.42584 percent inst
-ead of 5 percent on input line 469.
-
-[15
-
-]
-File: screenshot034.png Graphic file (type bmp)
-<screenshot034.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 26.3443 percent inste
-ad of 5 percent on input line 489.
-
-[16
-
-]
-File: screenshot037.png Graphic file (type bmp)
-<screenshot037.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 22.14966 percent inst
-ead of 5 percent on input line 507.
-
-[17
-
-]
-File: screenshot031.png Graphic file (type bmp)
-<screenshot031.png>
-File: screenshot030.png Graphic file (type bmp)
-<screenshot030.png>
-File: screenshot039.png Graphic file (type bmp)
-<screenshot039.png>
-File: screenshot033.png Graphic file (type bmp)
-<screenshot033.png>
-File: screenshot040.png Graphic file (type bmp)
-<screenshot040.png>
-File: screenshot035.png Graphic file (type bmp)
-<screenshot035.png>
-File: screenshot041.png Graphic file (type bmp)
-<screenshot041.png>
-File: screenshot036.png Graphic file (type bmp)
-<screenshot036.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 5.03845 percent inste
-ad of 5 percent on input line 546.
-
-[18
-
-]
-File: screenshot038.png Graphic file (type bmp)
-<screenshot038.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 21.87195 percent inst
-ead of 5 percent on input line 567.
-
-[19
-
-]
-File: screenshot041.png Graphic file (type bmp)
-<screenshot041.png>
-File: screenshot036.png Graphic file (type bmp)
-<screenshot036.png>
-File: screenshot042.png Graphic file (type bmp)
-<screenshot042.png>
- [20
-
-]
-File: screenshot011.png Graphic file (type bmp)
-<screenshot011.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 15.86304 percent inst
-ead of 5 percent on input line 658.
-
-[21
-
-] [22
-
-]
-
-Class beamer Warning: Frame text is shrunk by a factor of 14.54773 percent inst
-ead of 5 percent on input line 754.
-
-[23
-
-] [24
-
-]
-File: screenshot043.png Graphic file (type bmp)
-<screenshot043.png>
- [25
-
-]
-File: screenshot044.png Graphic file (type bmp)
-<screenshot044.png>
- [26
-
-]
-File: screenshot045.png Graphic file (type bmp)
-<screenshot045.png>
- [27
-
-]
-
-Class beamer Warning: Frame text is shrunk by a factor of 20.9732 percent inste
-ad of 5 percent on input line 879.
-
-[28
-
-] [29
-
-] [30
-
-]
-
-Class beamer Warning: Frame text is shrunk by a factor of 21.87195 percent inst
-ead of 5 percent on input line 1008.
-
-[31
-
-] [32
-
-] [33
-
-] [34
-
-]
-
-Class beamer Warning: Frame text is shrunk by a factor of 6.57501 percent inste
-ad of 5 percent on input line 1096.
-
-[35
-
-]
-
-Class beamer Warning: Frame text is shrunk by a factor of 15.53802 percent inst
-ead of 5 percent on input line 1126.
-
-[36
-
-]
-File: screenshot008.png Graphic file (type bmp)
-<screenshot008.png>
- [37
-
-] [38
 
 ]
 \tf@nav=\write6
@@ -1714,32 +1481,22 @@ File: screenshot008.png Graphic file (type bmp)
 
  
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1205.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1205.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1254.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1254.
 (./beamer.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1205.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1205.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1254.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1254.
 
-
-
-Package rerunfilecheck Warning: File `beamer.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `beamer.out':
-(rerunfilecheck)             Before: F695CDA94E30417CA8A7C35705CEDBD4
-(rerunfilecheck)             After:  8F0E8518693D4DFFE0A16688399ADAD4.
-
-LaTeX Warning: There were multiply-defined labels.
-
+Package rerunfilecheck Info: File `beamer.out' has not changed.
+(rerunfilecheck)             Checksum: 391CF15930D19CA5D530C99B14BBED42.
  ) 
 Here is how much of TeX's memory you used:
- 34381 strings out of 492912
- 675300 string characters out of 6134893
- 796550 words of memory out of 5000000
- 37838 multiletter control sequences out of 15000+600000
- 539245 words of font info for 76 fonts, out of 8000000 for 9000
+ 34157 strings out of 492912
+ 671963 string characters out of 6134893
+ 790508 words of memory out of 5000000
+ 37637 multiletter control sequences out of 15000+600000
+ 539229 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 56i,15n,95p,784b,594s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,95p,784b,596s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on beamer.pdf (38 pages).
+Output written on beamer.pdf (7 pages).
