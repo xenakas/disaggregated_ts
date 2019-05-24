@@ -2,14 +2,32 @@
 \beamer@sectionintoc {1}{Goal and tasks:}{2}{0}{1}
 \beamer@sectionintoc {2}{Данные: }{3}{0}{2}
 \beamer@subsectionintoc {2}{1}{Трехуровневая структура данных:}{3}{0}{2}
-\beamer@subsectionintoc {2}{2}{Выбор подходящих наборов данных:}{4}{0}{2}
-\beamer@subsectionintoc {2}{3}{US:}{5}{0}{2}
-\beamer@subsectionintoc {2}{4}{ЕС:}{5}{0}{2}
-\beamer@sectionintoc {3}{Forecasting :}{5}{0}{3}
-\beamer@subsectionintoc {3}{1}{Aggregated TS:}{5}{0}{3}
-\beamer@subsectionintoc {3}{2}{Disaggregated TS}{5}{0}{3}
-\beamer@sectionintoc {4}{Grouped Time Series}{5}{0}{4}
-\beamer@subsectionintoc {4}{1}{Forecasting hierarchical time series}{5}{0}{4}
-\beamer@sectionintoc {5}{Прогнозирование по рядам второго уровня}{6}{0}{5}
-\beamer@subsectionintoc {5}{1}{Кластеризация временных рядов}{6}{0}{5}
-\beamer@sectionintoc {6}{Сравнение прогнозов}{7}{0}{6}
+\beamer@subsectionintoc {2}{2}{Выбор подходящих наборов данных:}{5}{0}{2}
+\beamer@subsectionintoc {2}{3}{US:}{6}{0}{2}
+\beamer@subsectionintoc {2}{4}{ЕС:}{7}{0}{2}
+\beamer@sectionintoc {3}{Forecasting :}{8}{0}{3}
+\beamer@subsectionintoc {3}{1}{Aggregated TS:}{8}{0}{3}
+\beamer@subsectionintoc {3}{2}{Disaggregated TS}{12}{0}{3}
+\beamer@sectionintoc {4}{Grouped Time Series}{13}{0}{4}
+\beamer@subsectionintoc {4}{1}{Forecasting hierarchical time series}{13}{0}{4}
+\beamer@sectionintoc {5}{Прогнозирование по рядам второго уровня}{14}{0}{5}
+\beamer@subsectionintoc {5}{1}{Кластеризация временных рядов}{14}{0}{5}
+\beamer@sectionintoc {6}{Сравнение прогнозов}{15}{0}{6}
+\beamer@subsectionintoc {6}{1}{ARIMAX}{19}{0}{6}
+\beamer@subsectionintoc {6}{2}{Forecasting grouped time series}{20}{0}{6}
+\beamer@subsectionintoc {6}{3}{Optimal forecasts}{21}{0}{6}
+\beamer@subsectionintoc {6}{4}{Approximate optimal forecasts}{22}{0}{6}
+\beamer@sectionintoc {7}{Clusterization methods}{23}{0}{7}
+\beamer@sectionintoc {8}{Forecast-error clustering}{23}{0}{8}
+\beamer@sectionintoc {9}{Bayesian Methods}{24}{0}{9}
+\beamer@subsectionintoc {9}{1}{Why is the Bayesian Inference controversial?}{24}{0}{9}
+\beamer@subsectionintoc {9}{2}{Bayesian Modelling and Markov chain Monte Carlo}{26}{0}{9}
+\beamer@subsectionintoc {9}{3}{Bayesian Shrinkage}{27}{0}{9}
+\beamer@subsectionintoc {9}{4}{Stein's paradox}{28}{0}{9}
+\beamer@sectionintoc {10}{MCMC}{29}{0}{10}
+\beamer@sectionintoc {11}{Hierarchical Bayes}{29}{0}{11}
+\beamer@sectionintoc {12}{Small Sample}{29}{0}{12}
+\beamer@sectionintoc {13}{Bootstrap}{30}{0}{13}
+\beamer@subsectionintoc {13}{1}{The Recursive BS for stationary AR(p) model}{31}{0}{13}
+\beamer@subsectionintoc {13}{2}{A comparison of four different block bootstrap methods}{32}{0}{13}
+\beamer@subsectionintoc {13}{3}{Bootstrapping vs. Posterior sampling}{33}{0}{13}

@@ -1,0 +1,167 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{eurostat2}{online}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labeltitlesource}{title}
+      \field{title}{Eurostat metadata: Annual national accounts (nama10)}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ec.europa.eu/eurostat/cache/metadata/en/nama10_esms.htm
+      \endverb
+      \verb{url}
+      \verb https://ec.europa.eu/eurostat/cache/metadata/en/nama10_esms.htm
+      \endverb
+    \endentry
+    \entry{eurostat1}{online}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labeltitlesource}{title}
+      \field{title}{Eurostat: European statistics - Database}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ec.europa.eu/eurostat/data/database
+      \endverb
+      \verb{url}
+      \verb https://ec.europa.eu/eurostat/data/database
+      \endverb
+    \endentry
+    \entry{bea3}{book}{}
+      \name{author}{1}{}{%
+        {{hash=002d7cb5080e15007d599793a4636ce0}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Douglas\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bureau of Economic Analysis (BEA)}%
+      }
+      \strng{namehash}{002d7cb5080e15007d599793a4636ce0}
+      \strng{fullhash}{002d7cb5080e15007d599793a4636ce0}
+      \strng{bibnamehash}{002d7cb5080e15007d599793a4636ce0}
+      \strng{authorbibnamehash}{002d7cb5080e15007d599793a4636ce0}
+      \strng{authornamehash}{002d7cb5080e15007d599793a4636ce0}
+      \strng{authorfullhash}{002d7cb5080e15007d599793a4636ce0}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Concepts and Methods of the U.S. National Income and Product Accounts}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{usstat1}{online}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labeltitlesource}{title}
+      \field{title}{FRED: Economic Data}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://fred.stlouisfed.org/
+      \endverb
+      \verb{url}
+      \verb https://fred.stlouisfed.org/
+      \endverb
+    \endentry
+    \entry{katz2006overview}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9e12a5c3feef55fbc2f7eccaa148617e}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Arnold\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {10th OECD-NBS Workshop on National Accounts}%
+      }
+      \strng{namehash}{9e12a5c3feef55fbc2f7eccaa148617e}
+      \strng{fullhash}{9e12a5c3feef55fbc2f7eccaa148617e}
+      \strng{bibnamehash}{9e12a5c3feef55fbc2f7eccaa148617e}
+      \strng{authorbibnamehash}{9e12a5c3feef55fbc2f7eccaa148617e}
+      \strng{authornamehash}{9e12a5c3feef55fbc2f7eccaa148617e}
+      \strng{authorfullhash}{9e12a5c3feef55fbc2f7eccaa148617e}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Overview of BEA's Source Data and Estimating Methods for Quarterly GDP}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{moyergross}{article}{}
+      \name{author}{2}{}{%
+        {{hash=896d07a6c9f961f418284b0fbbeb7812}{%
+           family={Moyer},
+           familyi={M\bibinitperiod},
+           given={Brian\bibnamedelima C},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1f4bd3d6c30e0d227549aec3c3f41988}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Sarahelen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebc3dd98b325bba8a5813ee1e2b1cd36}
+      \strng{fullhash}{ebc3dd98b325bba8a5813ee1e2b1cd36}
+      \strng{bibnamehash}{ebc3dd98b325bba8a5813ee1e2b1cd36}
+      \strng{authorbibnamehash}{ebc3dd98b325bba8a5813ee1e2b1cd36}
+      \strng{authornamehash}{ebc3dd98b325bba8a5813ee1e2b1cd36}
+      \strng{authorfullhash}{ebc3dd98b325bba8a5813ee1e2b1cd36}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gross Domestic Product by State Estimation Methodology}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{fedstat2}{online}{}
+      \field{sortinit}{Д}
+      \field{sortinithash}{c587a19f9e6070fae0de9717f3b8aaa4}
+      \field{labeltitlesource}{title}
+      \field{title}{Демографический ежегодник России: методические пояснения}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.gks.ru/bgd/regl/B17_16/Main.htm
+      \endverb
+      \verb{url}
+      \verb http://www.gks.ru/bgd/regl/B17_16/Main.htm
+      \endverb
+    \endentry
+    \entry{fedstat1}{online}{}
+      \field{sortinit}{Е}
+      \field{sortinithash}{c0067bbf8c72e138d8b76600e107b73f}
+      \field{labeltitlesource}{title}
+      \field{title}{ЕМИСС: государственная статистика: Официальные статистические показатели}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.fedstat.ru/
+      \endverb
+      \verb{url}
+      \verb https://www.fedstat.ru/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

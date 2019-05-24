@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  11 MAY 2019 15:29
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  24 MAY 2019 12:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1788,7 +1788,20 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count505
 \@quotereset=\count506
-(./GOST_diploma.aux)
+(./GOST_diploma.aux
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+)
 \openout1 = `GOST_diploma.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 306.
@@ -1940,103 +1953,83 @@ This may cause the page layout to be inconsistent, however.
 
 ] [3
 
-]
+] [4]
 Глава 1.
+[5
+
+] [6]
+Глава 2.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 12.00018pt on input line 421.
+(Font)              scaled to size 12.00018pt on input line 537.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 8.76012pt on input line 421.
+(Font)              scaled to size 8.76012pt on input line 537.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 7.2001pt on input line 421.
+(Font)              scaled to size 7.2001pt on input line 537.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99982pt on input line 421.
+(Font)              scaled to size 11.99982pt on input line 537.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 8.75986pt on input line 421.
+(Font)              scaled to size 8.75986pt on input line 537.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 7.19987pt on input line 421.
-LaTeX Font Info:    Try loading font information for U+msa on input line 421.
+(Font)              scaled to size 7.19987pt on input line 537.
+LaTeX Font Info:    Try loading font information for U+msa on input line 537.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 421.
+LaTeX Font Info:    Try loading font information for U+msb on input line 537.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 421.
+(Font)              scaled to size 10.00015pt on input line 548.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 7.0001pt on input line 421.
+(Font)              scaled to size 7.0001pt on input line 548.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 421.
+(Font)              scaled to size 5.00008pt on input line 548.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 421.
+(Font)              scaled to size 9.99985pt on input line 548.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 6.9999pt on input line 421.
+(Font)              scaled to size 6.9999pt on input line 548.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 421.
+(Font)              scaled to size 4.99992pt on input line 548.
+ [7
 
+] [8] [9] [10]
+[11] [12] [13
 
-LaTeX Warning: Citation 'morris2005central' on page 4 undefined on input line 4
-27.
-
-
-Overfull \hbox (6.21115pt too wide) in paragraph at lines 427--428
-\TU/TimesNewRoman(0)/m/n/12 Слишком большой объем информации приводит к перегру
-зке и путанице [[]]. 
- []
-
-[4
-
-]
-Глава 2.
-
-LaTeX Warning: Reference `otkl_1' on page 5 undefined on input line 433.
-
-[5
-
-]
-
-LaTeX Warning: Empty bibliography on input line 503.
-
-[6
+] [14
 
 ]
 Приложение А.
-[7
+[15
 
-] [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 574.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 574.
+] [16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 843.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 843.
  (./GOST_diploma.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 574.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 574.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 843.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 843.
 Package rerunfilecheck Info: File `GOST_diploma.out' has not changed.
-(rerunfilecheck)             Checksum: 5A6EC8BD41A2CDA376D65B81569FF905.
+(rerunfilecheck)             Checksum: 4400CE3626EC19AD1824BD6211AAE440.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                GOST_diploma
-(biblatex)                and rerun LaTeX afterwards.
+LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'GOST_diploma.run.xml'.
 \openout1 = `GOST_diploma.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 574.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 843.
  ) 
 Here is how much of TeX's memory you used:
- 57113 strings out of 492912
- 1232273 string characters out of 6134893
- 2088718 words of memory out of 5000000
- 60406 multiletter control sequences out of 15000+600000
- 538522 words of font info for 82 fonts, out of 8000000 for 9000
+ 57181 strings out of 492912
+ 1233902 string characters out of 6134893
+ 2095031 words of memory out of 5000000
+ 60470 multiletter control sequences out of 15000+600000
+ 538538 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 66i,11n,109p,1176b,5694s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,12n,109p,1176b,5694s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on GOST_diploma.pdf (8 pages).
+Output written on GOST_diploma.pdf (16 pages).
