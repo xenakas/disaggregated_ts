@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  24 MAY 2019 12:25
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  27 MAY 2019 09:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1801,6 +1801,9 @@ LaTeX Warning: Label `key' multiply defined.
 
 LaTeX Warning: Label `key' multiply defined.
 
+
+LaTeX Warning: Label `otkl_1' multiply defined.
+
 )
 \openout1 = `GOST_diploma.aux'.
 
@@ -1955,62 +1958,135 @@ This may cause the page layout to be inconsistent, however.
 
 ] [4]
 Глава 1.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 487.
+
 [5
 
-] [6]
-Глава 2.
+]
+Overfull \hbox (7.95244pt too wide) in paragraph at lines 560--579
+[]\TU/TimesNewRoman(0)/m/n/12 Rule of thumb: if changing your prior to another 
+reasonable one changes the answers significantly,
+ []
+
+[6]
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 12.00018pt on input line 537.
+(Font)              scaled to size 12.00018pt on input line 630.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 8.76012pt on input line 537.
+(Font)              scaled to size 8.76012pt on input line 630.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 7.2001pt on input line 537.
+(Font)              scaled to size 7.2001pt on input line 630.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99982pt on input line 537.
+(Font)              scaled to size 11.99982pt on input line 630.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 8.75986pt on input line 537.
+(Font)              scaled to size 8.75986pt on input line 630.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 7.19987pt on input line 537.
-LaTeX Font Info:    Try loading font information for U+msa on input line 537.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(Font)              scaled to size 7.19987pt on input line 630.
+LaTeX Font Info:    Try loading font information for U+msa on input line 630.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 537.
+LaTeX Font Info:    Try loading font information for U+msb on input line 630.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+) [7] [8]
+Глава 2.
+File: Screenshot51.png Graphic file (type bmp)
+<Screenshot51.png>
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 548.
+(Font)              scaled to size 10.00015pt on input line 783.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 7.0001pt on input line 548.
+(Font)              scaled to size 7.0001pt on input line 783.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 548.
+(Font)              scaled to size 5.00008pt on input line 783.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 548.
+(Font)              scaled to size 9.99985pt on input line 783.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 6.9999pt on input line 548.
+(Font)              scaled to size 6.9999pt on input line 783.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 548.
- [7
+(Font)              scaled to size 4.99992pt on input line 783.
+[9
 
-] [8] [9] [10]
-[11] [12] [13
+] [10] [11] [12]
+LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
+(Font)              scaled to size 10.95015pt on input line 892.
+LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
+(Font)              scaled to size 8.00012pt on input line 892.
+LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00009pt on input line 892.
+LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
+(Font)              scaled to size 10.94983pt on input line 892.
+LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
+(Font)              scaled to size 7.99988pt on input line 892.
+LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99991pt on input line 892.
+ [13] [14] [15] [16] [17] [18] [19
 
-] [14
+] [20
+
+] [21]
+Приложение А.
+File: screenshot002.png Graphic file (type bmp)
+<screenshot002.png>
+File: screenshot005.png Graphic file (type bmp)
+<screenshot005.png>
+File: screenshot003.png Graphic file (type bmp)
+<screenshot003.png>
+File: screenshot006.png Graphic file (type bmp)
+<screenshot006.png>
+File: screenshot004.png Graphic file (type bmp)
+<screenshot004.png>
+File: screenshot007.png Graphic file (type bmp)
+<screenshot007.png>
+[22
 
 ]
-Приложение А.
-[15
+File: screenshot008.png Graphic file (type bmp)
+<screenshot008.png>
+File: screenshot009.png Graphic file (type bmp)
+<screenshot009.png>
+File: screenshot010.png Graphic file (type bmp)
+<screenshot010.png>
+File: screenshot011.png Graphic file (type bmp)
+<screenshot011.png>
+File: screenshot012.png Graphic file (type bmp)
+<screenshot012.png>
+File: screenshot013.png Graphic file (type bmp)
+<screenshot013.png>
+ [23]
+File: screenshot014.png Graphic file (type bmp)
+<screenshot014.png>
+File: screenshot015.png Graphic file (type bmp)
+<screenshot015.png>
+File: screenshot016.png Graphic file (type bmp)
+<screenshot016.png>
+ [24]
+Приложение Б.
+File: screenshot020.png Graphic file (type bmp)
+<screenshot020.png>
+File: screenshot017.png Graphic file (type bmp)
+<screenshot017.png>
+File: screenshot021.png Graphic file (type bmp)
+<screenshot021.png>
+File: screenshot018.png Graphic file (type bmp)
+<screenshot018.png>
+File: screenshot022.png Graphic file (type bmp)
+<screenshot022.png>
+File: screenshot019.png Graphic file (type bmp)
+<screenshot019.png>
+[25
 
-] [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 843.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 843.
+] [26]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1380.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1380.
  (./GOST_diploma.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 843.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 843.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1380.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1380.
+
 Package rerunfilecheck Info: File `GOST_diploma.out' has not changed.
-(rerunfilecheck)             Checksum: 4400CE3626EC19AD1824BD6211AAE440.
+(rerunfilecheck)             Checksum: 9A9410F833871D1386064AEF624C11D4.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2021,15 +2097,15 @@ LaTeX Warning: There were multiply-defined labels.
 Package logreq Info: Writing requests to 'GOST_diploma.run.xml'.
 \openout1 = `GOST_diploma.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 843.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1380.
  ) 
 Here is how much of TeX's memory you used:
- 57181 strings out of 492912
- 1233902 string characters out of 6134893
- 2095031 words of memory out of 5000000
- 60470 multiletter control sequences out of 15000+600000
- 538538 words of font info for 84 fonts, out of 8000000 for 9000
+ 57343 strings out of 492912
+ 1238326 string characters out of 6134893
+ 2103348 words of memory out of 5000000
+ 60594 multiletter control sequences out of 15000+600000
+ 541429 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 66i,12n,109p,1176b,5694s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,14n,109p,1176b,5694s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on GOST_diploma.pdf (16 pages).
+Output written on GOST_diploma.pdf (26 pages).

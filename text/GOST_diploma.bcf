@@ -3312,12 +3312,6 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">bea3</bcf:citekey>
-    <bcf:citekey order="2">eurostat1</bcf:citekey>
-    <bcf:citekey order="3">eurostat2</bcf:citekey>
-    <bcf:citekey order="4">usstat1</bcf:citekey>
-    <bcf:citekey order="5">fedstat1</bcf:citekey>
-    <bcf:citekey order="6">fedstat2</bcf:citekey>
-    <bcf:citekey order="7">usstat1</bcf:citekey>
     <bcf:citekey order="0" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
