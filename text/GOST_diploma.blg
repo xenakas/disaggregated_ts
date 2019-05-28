@@ -1,17 +1,17 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is 'GOST_diploma.blg'
-[15] biber:315> INFO - === Mon May 27, 2019, 09:30:00
+[15] biber:315> INFO - === Mon May 27, 2019, 18:05:57
 [32] Biber.pm:371> INFO - Reading 'GOST_diploma.bcf'
 [105] Biber.pm:886> INFO - Using all citekeys in bib section 0
-[116] Biber.pm:4093> INFO - Processing section 0
+[115] Biber.pm:4093> INFO - Processing section 0
 [122] Biber.pm:4254> INFO - Looking for bibtex format file 'diplomabib.bib' for section 0
 [123] bibtex.pm:1512> INFO - LaTeX decoding ...
-[144] bibtex.pm:1329> INFO - Found BibTeX data source 'diplomabib.bib'
-[145] Utils.pm:193> WARN - Duplicate entry key: 'shang2017grouped' in file 'diplomabib.bib', skipping ...
-[255] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[255] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[255] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'ru-RU'
-[255] Biber.pm:3927> INFO - No sort tailoring available for locale 'ru-RU'
-[274] bbl.pm:636> INFO - Writing 'GOST_diploma.bbl' with encoding 'UTF-8'
-[280] bbl.pm:739> INFO - Output to GOST_diploma.bbl
-[280] Biber.pm:110> INFO - WARNINGS: 1
+[148] bibtex.pm:1329> INFO - Found BibTeX data source 'diplomabib.bib'
+[149] Utils.pm:193> WARN - Duplicate entry key: 'shang2017grouped' in file 'diplomabib.bib', skipping ...
+[258] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[258] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[258] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'ru-RU'
+[258] Biber.pm:3927> INFO - No sort tailoring available for locale 'ru-RU'
+[276] bbl.pm:636> INFO - Writing 'GOST_diploma.bbl' with encoding 'UTF-8'
+[283] bbl.pm:739> INFO - Output to GOST_diploma.bbl
+[283] Biber.pm:110> INFO - WARNINGS: 1

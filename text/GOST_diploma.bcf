@@ -3311,7 +3311,11 @@
     <bcf:datasource type="file" datatype="bibtex">diplomabib.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">bea3</bcf:citekey>
+    <bcf:citekey order="1">duncan2001forecasting</bcf:citekey>
+    <bcf:citekey order="2">weiss2018essays</bcf:citekey>
+    <bcf:citekey order="3">hyndman2011optimal</bcf:citekey>
+    <bcf:citekey order="4">hyndman2016fast</bcf:citekey>
+    <bcf:citekey order="5">bea3</bcf:citekey>
     <bcf:citekey order="0" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->

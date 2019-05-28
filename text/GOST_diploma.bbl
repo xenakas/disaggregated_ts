@@ -51,6 +51,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Information Systems}
+      \field{langid}{english}
       \field{title}{Time-series clustering--A decade review}
       \field{year}{2015}
       \true{nocite}
@@ -88,6 +89,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:1509.04705}
+      \field{langid}{english}
       \field{title}{Forecasting method for grouped time series with the use of k-means algorithm}
       \field{year}{2015}
       \true{nocite}
@@ -124,6 +126,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Forecasting}
+      \field{langid}{english}
       \field{title}{Hierarchical forecasts for Australian domestic tourism}
       \field{year}{2009}
       \true{nocite}
@@ -156,6 +159,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Ecology}
+      \field{langid}{english}
       \field{title}{Uncertainty and variability in demography and population growth: a hierarchical approach}
       \field{year}{2003}
       \true{nocite}
@@ -174,6 +178,9 @@
            given={Marcus},
            giveni={M\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {MPRA Paper}%
+      }
       \strng{namehash}{d41121cc1c958c643c21aa6d9fd896f8}
       \strng{fullhash}{d41121cc1c958c643c21aa6d9fd896f8}
       \strng{bibnamehash}{d41121cc1c958c643c21aa6d9fd896f8}
@@ -185,9 +192,15 @@
       \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{University Library of Munich}
+      \field{langid}{english}
       \field{title}{Forecasting Economic Aggregates Using Dynamic Component Grouping}
       \field{year}{2017}
       \true{nocite}
+      \field{pages}{3\bibrangedash 39}
+      \range{pages}{37}
+      \field{volume}{8}
+      \range{volume}{1}
     \endentry
     \entry{cobb2017joint}{article}{}
       \name{author}{1}{}{%
@@ -196,6 +209,9 @@
            familyi={C\bibinitperiod},
            given={Marcus},
            giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MPRA Paper}%
       }
       \strng{namehash}{d41121cc1c958c643c21aa6d9fd896f8}
       \strng{fullhash}{d41121cc1c958c643c21aa6d9fd896f8}
@@ -208,9 +224,15 @@
       \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{University Library of Munich}
+      \field{langid}{english}
       \field{title}{Joint forecast combination of macroeconomic aggregates and their components}
       \field{year}{2017}
       \true{nocite}
+      \field{pages}{2\bibrangedash 44}
+      \range{pages}{43}
+      \field{volume}{3}
+      \range{volume}{1}
     \endentry
     \entry{diebold1990use}{article}{}
       \name{author}{2}{}{%
@@ -239,6 +261,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Forecasting}
+      \field{langid}{english}
       \field{title}{The use of prior information in forecast combination}
       \field{year}{1990}
       \true{nocite}
@@ -280,12 +303,15 @@
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Principles of forecasting}
+      \field{journaltitle}{Principles of forecasting}
+      \field{langid}{english}
       \field{title}{Forecasting analogous time series}
       \field{year}{2001}
       \true{nocite}
       \field{pages}{195\bibrangedash 213}
       \range{pages}{19}
+      \field{volume}{3}
+      \range{volume}{1}
     \endentry
     \entry{bea3}{book}{}
       \name{author}{1}{}{%
@@ -308,9 +334,12 @@
       \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{Concepts and Methods of the U.S. National Income and Product Accounts}
       \field{year}{2017}
       \true{nocite}
+      \field{pages}{27\bibrangedash 39}
+      \range{pages}{13}
     \endentry
     \entry{gelman2006multilevel}{article}{}
       \name{author}{1}{}{%
@@ -334,6 +363,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Technometrics}
+      \field{langid}{english}
       \field{title}{Multilevel (hierarchical) modeling: what it can and cannot do}
       \field{year}{2006}
       \true{nocite}
@@ -371,6 +401,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Forecasting}
+      \field{langid}{english}
       \field{title}{Structured analogies for forecasting}
       \field{year}{2007}
       \true{nocite}
@@ -380,6 +411,39 @@
       \range{pages}{12}
       \field{volume}{23}
       \range{volume}{1}
+    \endentry
+    \entry{hyndman2018forecasting}{book}{}
+      \name{author}{2}{}{%
+        {{hash=2f709db8a046ae1d056e75c1f3aad31c}{%
+           family={Hyndman},
+           familyi={H\bibinitperiod},
+           given={Rob\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=95cfbf5a8396e08b434cc6f7f5b18dc8}{%
+           family={Athanasopoulos},
+           familyi={A\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OTexts}%
+      }
+      \strng{namehash}{f5d192acd9066e5facaab32c8173f6d0}
+      \strng{fullhash}{f5d192acd9066e5facaab32c8173f6d0}
+      \strng{bibnamehash}{f5d192acd9066e5facaab32c8173f6d0}
+      \strng{authorbibnamehash}{f5d192acd9066e5facaab32c8173f6d0}
+      \strng{authornamehash}{f5d192acd9066e5facaab32c8173f6d0}
+      \strng{authorfullhash}{f5d192acd9066e5facaab32c8173f6d0}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Forecasting: principles and practice}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{456\bibrangedash 523}
+      \range{pages}{68}
     \endentry
     \entry{hyndman2016fast}{article}{}
       \name{author}{3}{}{%
@@ -413,6 +477,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Computational Statistics \& Data Analysis}
+      \field{langid}{english}
       \field{title}{Fast computation of reconciled forecasts for hierarchical and grouped time series}
       \field{year}{2016}
       \true{nocite}
@@ -442,9 +507,12 @@
       \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{An Overview of BEA's Source Data and Estimating Methods for Quarterly GDP}
       \field{year}{2006}
       \true{nocite}
+      \field{pages}{145\bibrangedash 189}
+      \range{pages}{45}
     \endentry
     \entry{makridakis2000m3}{article}{}
       \name{author}{2}{}{%
@@ -473,6 +541,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International journal of forecasting}
+      \field{langid}{english}
       \field{title}{The M3-Competition: results, conclusions and implications}
       \field{year}{2000}
       \true{nocite}
@@ -510,6 +579,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Multivariate behavioral research}
+      \field{langid}{english}
       \field{title}{Accommodating small sample sizes in three-level models when the third level is incidental}
       \field{year}{2017}
       \true{nocite}
@@ -520,7 +590,7 @@
       \field{volume}{52}
       \range{volume}{1}
     \endentry
-    \entry{moyergross}{article}{}
+    \entry{moyergross}{book}{}
       \name{author}{2}{}{%
         {{hash=896d07a6c9f961f418284b0fbbeb7812}{%
            family={Moyer},
@@ -543,9 +613,12 @@
       \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{Gross Domestic Product by State Estimation Methodology}
       \field{year}{2017}
       \true{nocite}
+      \field{pages}{34\bibrangedash 49}
+      \range{pages}{16}
     \endentry
     \entry{hyndman2011optimal}{article}{useauthor=false}
       \name{author}{4}{}{%
@@ -580,6 +653,7 @@
       \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Computational Statistics \& Data Analysis}
+      \field{langid}{english}
       \field{title}{Optimal combination forecasts for hierarchical time series}
       \field{year}{2011}
       \true{nocite}
@@ -617,6 +691,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Computational and Graphical Statistics}
+      \field{langid}{english}
       \field{title}{Grouped functional time series forecasting: an application to age-specific mortality rates}
       \field{year}{2017}
       \true{nocite}
@@ -653,9 +728,15 @@
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{Social Statistics \& Demography}
+      \field{langid}{english}
       \field{title}{Grouped time-series forecasting with an application to regional infant mortality counts}
       \field{year}{2013}
       \true{nocite}
+      \field{pages}{5\bibrangedash 20}
+      \range{pages}{16}
+      \field{volume}{40}
+      \range{volume}{1}
     \endentry
     \entry{stegmueller2013many}{article}{}
       \name{author}{1}{}{%
@@ -679,6 +760,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Political Science}
+      \field{langid}{english}
       \field{title}{How many countries for multilevel modeling? A comparison of frequentist and Bayesian approaches}
       \field{year}{2013}
       \true{nocite}
@@ -711,6 +793,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Forecasting}
+      \field{langid}{english}
       \field{title}{Forecasting output growth rates and median output growth rates: A hierarchical Bayesian approach}
       \field{year}{2001}
       \true{nocite}
@@ -742,6 +825,7 @@
       \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{Essays in Hierarchical Time Series Forecasting and Forecast Combination}
       \field{year}{2018}
       \true{nocite}
@@ -773,6 +857,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Econometrics}
+      \field{langid}{english}
       \field{title}{Forecasting international growth rates using Bayesian shrinkage and other procedures}
       \field{year}{1989}
       \true{nocite}
