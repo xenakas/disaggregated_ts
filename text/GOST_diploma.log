@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  28 MAY 2019 19:08
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  29 MAY 2019 15:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1834,6 +1834,15 @@ LaTeX Warning: Label `key' multiply defined.
 LaTeX Warning: Label `key' multiply defined.
 
 
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `app-b' multiply defined.
+
+
 LaTeX Warning: Label `otkl_1' multiply defined.
 
 )
@@ -1988,74 +1997,112 @@ This may cause the page layout to be inconsistent, however.
 
 ] [3
 
-] [4]
+]
 Глава 1.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 508.
+(hyperref)                removing `\\' on input line 498.
 
-[5
+[4
 
 ]
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 12.00018pt on input line 570.
+(Font)              scaled to size 12.00018pt on input line 555.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 8.76012pt on input line 570.
+(Font)              scaled to size 8.76012pt on input line 555.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 7.2001pt on input line 570.
+(Font)              scaled to size 7.2001pt on input line 555.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99982pt on input line 570.
+(Font)              scaled to size 11.99982pt on input line 555.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 8.75986pt on input line 570.
+(Font)              scaled to size 8.75986pt on input line 555.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 7.19987pt on input line 570.
-LaTeX Font Info:    Try loading font information for U+msa on input line 570.
+(Font)              scaled to size 7.19987pt on input line 555.
+LaTeX Font Info:    Try loading font information for U+msa on input line 555.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 570.
+LaTeX Font Info:    Try loading font information for U+msb on input line 555.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [6]
+) [5]
 File: Screenshot51.png Graphic file (type bmp)
 <Screenshot51.png>
- [7] [8] [9]
-[10]
+ [6] [7] [8]
 Глава 2.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 825.
+(Font)              scaled to size 10.00015pt on input line 808.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 7.0001pt on input line 825.
+(Font)              scaled to size 7.0001pt on input line 808.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 825.
+(Font)              scaled to size 5.00008pt on input line 808.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 825.
+(Font)              scaled to size 9.99985pt on input line 808.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 6.9999pt on input line 825.
+(Font)              scaled to size 6.9999pt on input line 808.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 825.
-[11
+(Font)              scaled to size 4.99992pt on input line 808.
+[9
 
-] [12] [13] [14]
+] [10] [11] [12]
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 950.
+(Font)              scaled to size 10.95015pt on input line 945.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 950.
+(Font)              scaled to size 8.00012pt on input line 945.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 950.
+(Font)              scaled to size 6.00009pt on input line 945.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 950.
+(Font)              scaled to size 10.94983pt on input line 945.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 950.
+(Font)              scaled to size 7.99988pt on input line 945.
 LaTeX Font Info:    Font shape `TU/Asana-Math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 950.
- [15] [16] [17] [18] [19] [20] [21
+(Font)              scaled to size 5.99991pt on input line 945.
+ [13] [14]
+File: screenshot014.png Graphic file (type bmp)
+<screenshot014.png>
+File: screenshot015.png Graphic file (type bmp)
+<screenshot015.png>
+File: screenshot016.png Graphic file (type bmp)
+<screenshot016.png>
+ [15] [16] [17]
+File: screenshot020.png Graphic file (type bmp)
+<screenshot020.png>
+File: screenshot021.png Graphic file (type bmp)
+<screenshot021.png>
+File: screenshot022.png Graphic file (type bmp)
+<screenshot022.png>
+File: screenshot013.png Graphic file (type bmp)
+<screenshot013.png>
+ [18] [19]
+File: screenshot017.png Graphic file (type bmp)
+<screenshot017.png>
+File: screenshot018.png Graphic file (type bmp)
+<screenshot018.png>
+File: screenshot019.png Graphic file (type bmp)
+<screenshot019.png>
 
-] [22
+Underfull \hbox (badness 1509) in paragraph at lines 1200--1200
+[][]|\TU/TimesNewRoman(0)/m/n/12 Процентное изменение RMSE (OLS - скорректирова
+нные
+ []
 
-] [23]
+[20] [21] [22] [23] [24] [25
+
+] [26
+
+] [27]
 Приложение А.
+[28
+
+]
+Overfull \hbox (6.38947pt too wide) in paragraph at lines 1407--1407
+[]\TU/lmtt/m/n/12 data = subset(data, seasonal_adjustment == "Seasonally Adjust
+ed Annual Rate")[] 
+ []
+
+[29]
+Приложение Б.
 File: screenshot002.png Graphic file (type bmp)
 <screenshot002.png>
 File: screenshot005.png Graphic file (type bmp)
@@ -2068,7 +2115,7 @@ File: screenshot004.png Graphic file (type bmp)
 <screenshot004.png>
 File: screenshot007.png Graphic file (type bmp)
 <screenshot007.png>
-[24
+[30
 
 ]
 File: screenshot008.png Graphic file (type bmp)
@@ -2083,17 +2130,10 @@ File: screenshot012.png Graphic file (type bmp)
 <screenshot012.png>
 File: screenshot013.png Graphic file (type bmp)
 <screenshot013.png>
- [25]
-File: screenshot014.png Graphic file (type bmp)
-<screenshot014.png>
-File: screenshot015.png Graphic file (type bmp)
-<screenshot015.png>
-File: screenshot016.png Graphic file (type bmp)
-<screenshot016.png>
- [26]
-Приложение Б.
+ [31]
+Приложение В.
 
-Underfull \hbox (badness 4378) in paragraph at lines 1360--1360
+Underfull \hbox (badness 3849) in paragraph at lines 1509--1509
 [][]|\TU/TimesNewRoman(0)/m/n/12 Таблицы, указывающие на процентное изменение R
 MSE
  []
@@ -2110,17 +2150,17 @@ File: screenshot022.png Graphic file (type bmp)
 <screenshot022.png>
 File: screenshot019.png Graphic file (type bmp)
 <screenshot019.png>
-[27
+[32
 
-] [28]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1435.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1435.
+] [33]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1583.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1583.
  (./GOST_diploma.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1435.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1435.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1583.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1583.
 
 Package rerunfilecheck Info: File `GOST_diploma.out' has not changed.
-(rerunfilecheck)             Checksum: 1C5B4EA6C432D9E872817DEC4F5413F1.
+(rerunfilecheck)             Checksum: 3391510B29B1C2DB48AB205D9C79D3D3.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2131,15 +2171,15 @@ LaTeX Warning: There were multiply-defined labels.
 Package logreq Info: Writing requests to 'GOST_diploma.run.xml'.
 \openout1 = `GOST_diploma.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1435.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1583.
  ) 
 Here is how much of TeX's memory you used:
- 57451 strings out of 492912
- 1240135 string characters out of 6134893
- 2107198 words of memory out of 5000000
- 60699 multiletter control sequences out of 15000+600000
- 541421 words of font info for 101 fonts, out of 8000000 for 9000
+ 57453 strings out of 492912
+ 1240171 string characters out of 6134893
+ 2111529 words of memory out of 5000000
+ 60697 multiletter control sequences out of 15000+600000
+ 541445 words of font info for 104 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  66i,14n,109p,1176b,7120s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on GOST_diploma.pdf (28 pages).
+Output written on GOST_diploma.pdf (33 pages).
